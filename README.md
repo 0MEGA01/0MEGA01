@@ -44,11 +44,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0MEGA01&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0MEGA01&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=0MEGA01&theme=tokyonight" />
 </p>
 
