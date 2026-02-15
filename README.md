@@ -65,8 +65,8 @@
 ## 📬 Contact
 
 - 📧 Email: **sahu.work.mail.hub@gmail.com**
-- 💼 LinkedIn: *(add your link here)*
-- 🧑‍💻 GitHub: https://github.com/0MEGA01
+- 💼 LinkedIn: **linkedin.com/in/soumya-sahu01**
+- 🧑‍💻 GitHub: **https://github.com/0MEGA01**
 
 ---
 
