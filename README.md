@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Soumya Prasad Sahu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=PG-DAC+(CDAC)+Student;Java+%7C+Spring+Boot+%7C+React+Developer;Backend+Focused+Full-Stack+Engineer;Building+Real+Projects+%E2%9A%A1;Constantly+Learning+%26+Exploring+Mode+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=PG-DAC+(CDAC)+Student;Java+%7C+Spring+Boot+%7C+React+Developer;Backend+Focused+Full-Stack+Engineer;Building+Real+Projects+%E2%9A%A1;Constantly+in+Learning+%26+Exploring+Mode+%F0%9F%9A%80" />
 </p>
 
 ---
