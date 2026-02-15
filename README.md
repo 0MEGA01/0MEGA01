@@ -2,6 +2,10 @@
 <h3 align="center">Java | Spring Boot | React | REST APIs | MySQL</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=PG-DAC+(CDAC)+Student;Java+%7C+Spring+Boot+%7C+React+Developer;Backend+Focused+Full-Stack+Engineer;Building+Real+Projects+%E2%9A%A1" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=0MEGA01&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
