@@ -4,11 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=PG-DAC+(CDAC)+Student;Java+%7C+Spring+Boot+%7C+React+Developer;Backend+Focused+Full-Stack+Engineer;Building+Real+Projects+%E2%9A%A1" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0MEGA01&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -62,7 +57,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0MEGA01&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0MEGA01&theme=tokyo-night" />
 </p>
 
 ---
