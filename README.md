@@ -12,7 +12,7 @@
 - 🔥 Strong in **Spring Boot, REST APIs, JWT Security, SQL, React**
 - 🧠 I build **real-world systems**, not just CRUD apps  
 - 📌 Currently improving: **System Design + scalable backend architecture**
-- 🏆 Strong DSA foundation — **High score in ADS Module (CCEE Exam, CDAC)**
+- 🏆 Strong DSA foundation — **Scored 35/40 in ADS Module (CCEE Exam, CDAC)**
 
 ---
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=0MEGA01&show_icons=true&theme=tokyonight" />
@@ -54,23 +54,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github.com/0MEGA01/0MEGA01/blob/main/github-metrics.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/0MEGA01/0MEGA01/blob/main/github-metrics.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0MEGA01/0MEGA01/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📌 Profile Summary (Fancy)
+## 📌 Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0MEGA01&theme=tokyonight" />
