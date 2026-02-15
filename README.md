@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Soumya Prasad Sahu 👋</h1>
-<h3 align="center">Java | Spring Boot | React | REST APIs | MySQL</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=PG-DAC+(CDAC)+Student;Java+%7C+Spring+Boot+%7C+React+Developer;Backend+Focused+Full-Stack+Engineer;Building+Real+Projects+%E2%9A%A1" />
@@ -57,7 +56,15 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0MEGA01&theme=tokyo-night" />
+  <img src="https://github.com/0MEGA01/0MEGA01/blob/main/github-metrics.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/0MEGA01/0MEGA01/blob/main/github-metrics.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0MEGA01/0MEGA01/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
