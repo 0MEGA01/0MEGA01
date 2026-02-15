@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🎓 PG-DAC (CDAC) — Focused on **Java, DSA, Backend Development, System Design**
+- 🎓 PG-DAC (CDAC) Graduate — Focused on **Java, DSA, Backend Development, System Design**
 - 💻 Strong in **Spring Boot, REST APIs, JWT Security, SQL, React**
 - 🔥 I enjoy building **real-world full-stack products**, not just demos
 - 🧠 Currently improving: **System Design + scalable backend architecture**
