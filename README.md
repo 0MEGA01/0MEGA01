@@ -49,19 +49,6 @@
 
 ---
 
-## 📌 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0MEGA01&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0MEGA01&theme=tokyonight" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0MEGA01&theme=tokyonight" />
-</p>
-
----
-
 ## 📬 Contact
 
 - 📧 Email: **[sahu.work.mail.hub@gmail.com](mailto:sahu.work.mail.hub@gmail.com)**
